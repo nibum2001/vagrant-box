@@ -1,4 +1,4 @@
-# vagrant-tomcat-mysql
+# vagrant tomcat mysql
 This vagrant provision contains mysql and tomcat
 #What You'll need
 
