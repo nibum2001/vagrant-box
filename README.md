@@ -2,9 +2,12 @@
 This vagrant provision contains mysql and tomcat
 #What You'll need
 
--Vagrant
--VirtualBox
--Disk space and memory for a VM
+x. Vagrant
+
+x. VirtualBox
+
+x. Disk space and memory for a VM
+
 #Usage
 
 Clone this project.
